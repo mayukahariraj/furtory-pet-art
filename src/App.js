@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to  .
         </p>
         <div className='bg-white p-4 text-black font-semibold'>
-          Learn React
+          Learn React Now
         </div>
       </header>
     </div>
